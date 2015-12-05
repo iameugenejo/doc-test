@@ -4,4 +4,4 @@ source_parsers = {
     '.md': CommonMarkParser,
 }
 
-source_suffix = ['.rst', '.md']o
+source_suffix = ['.rst', '.md']
